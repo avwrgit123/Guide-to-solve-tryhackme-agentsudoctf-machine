@@ -21,3 +21,4 @@ Search for more sensitive files after connecting to target machine.
 <br>
 Full guide on tryhackme agentsudoctf machine
 <br>
+https://github.com/avwrgit123/Guide-to-solve-tryhackme-agentsudoctf-machine/blob/main/thm%20agentsudoctf%20machine.pdf
