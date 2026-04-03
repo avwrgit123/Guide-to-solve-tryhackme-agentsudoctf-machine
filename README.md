@@ -19,3 +19,5 @@ Search for more sensitive files after connecting to target machine.
 <br>
 6.Practice of using ai websites searching and explaining codes.
 <br>
+Full guide on tryhackme agentsudoctf machine
+<br>
