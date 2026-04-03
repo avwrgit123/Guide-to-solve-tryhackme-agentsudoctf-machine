@@ -3,11 +3,11 @@ Summery:
 <br>
 1.Connecting to TryHackMe: The article shows how to connect to a TryHackMe machine using Kali Linux and OpenVPN.
 <br>
-2.Scanning: It explains using tools like Nmap and RustScan to find open ports on a target machine.
+2.Scanning: It explains using tools like Nmap to find open ports on a target machine.
 <br>
 It explains using tools like Gobuster to to find hidden directories and documents on a target machine.
 <br>
-3.Searching for venerability's on the target machine and enumerate web server and find secret page using burpsuite, gobuster.
+3.Searching for venerability's on the target machine and enumerate web server and find secret page using burpsuite.
 <br>
 4.Exploitation: The articledescribes using brute force tools to crack passwords and gain remote access to machine using Hydra. Using ssh to remote connection to target machine, 
 <br>
